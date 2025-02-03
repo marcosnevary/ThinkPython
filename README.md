@@ -3,5 +3,4 @@ Bem-vindo! Este repositório contém as resoluções dos exercícos do livro *Th
 
 | Capítulo     | Jupyter Notebook      | Marimo       |
 |:------------:|:---------------------:|:------------:|
-|   1          |                       |              |
-|   2          |                       |              |
+|   1          | [Link para o Jupyter Notebook](https://github.com/marcosnevary/ThinkPython/blob/main/capitulo-1/capitulo_1.ipynb) | [Link para o Marimo](https://static.marimo.app/static/capitulo-1-u20f) |
