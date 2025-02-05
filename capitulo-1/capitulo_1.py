@@ -12,7 +12,7 @@ def _():
 
 @app.cell
 def _(mo):
-    mo.md(r"""# **Resolução dos Exercícios do Capítulo 1**""")
+    mo.md(r"""# **Resoluções dos Exercícios do Capítulo 1**""")
     return
 
 
