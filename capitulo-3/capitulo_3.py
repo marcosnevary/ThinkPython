@@ -27,6 +27,10 @@ def _():
     def print_right(text):
         spaces = 40 - len(text)
         print(f"{' '*spaces}{text}")
+
+    print_right('Water')
+    print_right('Fire')
+    print_right('Computer Science')
     return (print_right,)
 
 
@@ -41,6 +45,8 @@ def _():
     def triangle(text, height):
         for i in range(1, height + 1):
             print(text*i)
+
+    triangle('A', 10)
     return (triangle,)
 
 
@@ -55,6 +61,8 @@ def _():
     def rectangle(text, height, length):
         for i in range(height):
             print(text * length)
+
+    rectangle('A', 4, 12)
     return (rectangle,)
 
 
